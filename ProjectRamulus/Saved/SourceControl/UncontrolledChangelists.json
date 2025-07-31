@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Menu/BP_UI_MainMenu.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/NewUserDefinedStruct.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/BP_Struct.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Player/BP_Player.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Player/BP_PlayerController.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/NewStringTable.uasset",
 				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Maps/LVL_Main.umap",
 				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Core/BP_GM_Main.uasset",
 				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Player/BP_Player.uasset",

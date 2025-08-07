@@ -5,13 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Menu/BP_UI_MainMenu.uasset",
-				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/BP_Struct.uasset",
-				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Player/BP_Player.uasset",
-				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Player/BP_PlayerController.uasset",
-				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/NewStringTable.uasset",
-				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Core/BP_GM_Main.uasset",
-				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/NewUserDefinedStruct.uasset",
 				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Maps/LVL_Main.umap",
 				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Core/BP_GM_Main.uasset",
 				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Player/BP_Player.uasset",
@@ -22,7 +15,15 @@
 				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Player/Input/IA_Mouse.uasset",
 				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Images/Backgrounds/BG_FarmHouse.uasset",
 				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Player/Input/IA_Gamepad.uasset",
-				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Images/Characters/unnamed__1_.uasset"
+				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Images/Characters/unnamed__1_.uasset",
+				"E:/AIT Current/Y3T2/Internship-Project/ProjectRamulus/Content/MyContent/Widgets/BP_UW_Chapter.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Menu/BP_UI_MainMenu.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/BP_Struct.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Player/BP_Player.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Player/BP_PlayerController.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/NewStringTable.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/Core/BP_GM_Main.uasset",
+				"C:/Users/8617/Documents/GitHub/Internship-Project/ProjectRamulus/Content/MyContent/NewUserDefinedStruct.uasset"
 			]
 		}
 	]

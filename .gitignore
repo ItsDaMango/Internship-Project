@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /ProjectRamulus/Saved
+ProjectRamulus/Saved/SaveGames/Save Game 01.sav
+ProjectRamulus/Saved/SaveGames/Save Game 02.sav
+/ProjectRamulus/Saved/SaveGames

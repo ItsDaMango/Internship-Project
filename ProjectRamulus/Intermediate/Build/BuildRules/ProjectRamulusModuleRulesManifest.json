@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\AIT Current\\Y3T2\\Internship-Project\\ProjectRamulus\\Intermediate\\Source\\ProjectRamulus.Build.cs",
+		"E:\\AIT Current\\Y3T2\\Internship-Project\\ProjectRamulus\\Intermediate\\Source\\ProjectRamulus.Target.cs",
+		"E:\\AIT Current\\Y3T2\\Internship-Project\\ProjectRamulus\\Intermediate\\Source\\ProjectRamulusClient.Target.cs",
+		"E:\\AIT Current\\Y3T2\\Internship-Project\\ProjectRamulus\\Intermediate\\Source\\ProjectRamulusEditor.Target.cs",
+		"E:\\AIT Current\\Y3T2\\Internship-Project\\ProjectRamulus\\Intermediate\\Source\\ProjectRamulusServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

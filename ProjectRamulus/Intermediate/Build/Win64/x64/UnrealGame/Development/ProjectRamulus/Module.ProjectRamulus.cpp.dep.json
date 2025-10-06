@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ait current\\y3t2\\internship-project\\projectramulus\\intermediate\\build\\win64\\x64\\unrealgame\\development\\projectramulus\\module.projectramulus.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ait current\\y3t2\\internship-project\\projectramulus\\intermediate\\build\\win64\\x64\\projectramulus\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ait current\\y3t2\\internship-project\\projectramulus\\intermediate\\build\\win64\\x64\\unrealgame\\development\\projectramulus\\definitions.projectramulus.h",
+            "e:\\ait current\\y3t2\\internship-project\\projectramulus\\intermediate\\source\\projectramulus.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

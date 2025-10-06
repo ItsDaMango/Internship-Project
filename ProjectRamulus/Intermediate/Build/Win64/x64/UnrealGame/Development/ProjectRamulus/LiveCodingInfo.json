@@ -1,5 +1,8 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.ProjectRamulus.cpp.obj": [
+			"ProjectRamulus.cpp.obj"
+		]
 	}
 }
